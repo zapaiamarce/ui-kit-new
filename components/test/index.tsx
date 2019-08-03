@@ -1,1 +1,1 @@
-export default ({text=""}) => <div>Test Component {text} 😀</div>
+export default ({text=""}) => <div>Test Change {text} 😀</div>
