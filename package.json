@@ -1,0 +1,17 @@
+{
+  "name": "ui-kit-new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "cosmos": "cosmos",
+    "cosmos:export": "cosmos-export"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "next": "^9.0.3",
+    "react": "^16.8.6",
+    "react-cosmos": "^4.8.1",
+    "react-dom": "^16.8.6"
+  }
+}
