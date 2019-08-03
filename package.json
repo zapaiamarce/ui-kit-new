@@ -6,11 +6,13 @@
   "scripts": {
     "cosmos": "cosmos",
     "next": "next",
-    "cosmos:export": "cosmos-export"
+    "build": "cosmos-export",
+    "start": "node server"
   },
   "devDependencies": {
     "@types/node": "^12.6.9",
     "@types/react": "^16.8.24",
+    "express": "^4.17.1",
     "html-webpack-plugin": "^3.2.0",
     "next": "^9.0.3",
     "react": "^16.8.6",
