@@ -1,3 +1,7 @@
-import TestComponent from "../components/test"
+import TestComponent from "../components/test";
 
-export default () => <div><TestComponent></TestComponent></div>
+export default () => (
+  <div>
+    <TestComponent />
+  </div>
+);
